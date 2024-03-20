@@ -7,7 +7,7 @@
 
 body {
     width: 100%;
-    background-color: skyblue;
+    background-color: grey;
 }
 
 .container {
@@ -38,8 +38,8 @@ body {
 
 .form .btn {
     padding: 0.7rem;
-    background-color: darkblue;
-    color: white;
+    background-color: yellow;
+    color: black;
     cursor: pointer;
     border: none;
 }
@@ -49,7 +49,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap : 0.5rem;
-    background-color: white;
+    background-color: yellow;
     margin-top: 0.5rem;
     padding: 0.5rem;
 }
